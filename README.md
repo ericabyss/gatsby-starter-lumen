@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  A constantly evolving and thoughtful architecture for creating new static blogs.
+  A constantly evolving and thoughtful architecture for creating new static blogs. TIL
 </h4>
 
 <p align="center">
